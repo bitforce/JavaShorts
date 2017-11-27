@@ -35,8 +35,16 @@ requests to the server and it responds accordingly.
 - Many operations can be performed at once/in sync.
 - Programs are much quicker.
 
+Usage
+---
+In the root directory, run `make & make run args=8080` and this will compile 
+and then run the program.
+
 Note
 ---
 This program doesn't visually showcase multithreading, as its only purpose 
 is to live for 5 seconds and the die off; however, you can see the basic 
 mechanics of this via the code.
+
+The _args_ doesn't have to be 8080, you can substitute it for another open 
+port on yuor machine.
