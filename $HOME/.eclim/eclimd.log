@@ -1,0 +1,12 @@
+2017-11-26 19:45:08,265 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: /Users/Developer/.polymath/compsci/projects/.lib/JavaShorts/$HOME/.eclim
+2017-11-26 19:45:08,269 INFO  [org.eclim.eclipse.EclimDaemon] Home: /Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclim_2.6.0/
+2017-11-26 19:45:08,269 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2017-11-26 19:45:08,281 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2017-11-26 19:45:08,284 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2017-11-26 19:45:08,410 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2017-11-26 19:45:08,413 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2017-11-26 19:45:08,414 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2017-11-26 19:45:08,415 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2017-11-26 19:45:08,415 INFO  [org.eclim.eclipse.EclimDaemon] Waiting on running jobs before starting eclimd...
+2017-11-26 19:45:13,425 INFO  [org.eclim.eclipse.EclimDaemon] Jobs finished.
+2017-11-26 19:45:13,426 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 0.0.0.0:10012
